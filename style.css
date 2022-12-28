@@ -8,7 +8,6 @@
 
 body {
   font-family: "Outfit", sans-serif;
-
   display: flex;
 }
 
@@ -55,8 +54,8 @@ body {
 }
 
 @media only screen and (max-width: 480px) {
-  .container {
+  .body {
     width: 375px;
-    height: 667px;
+    height: 100vh;
   }
 }
