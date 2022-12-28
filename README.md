@@ -14,8 +14,8 @@ This was the first challenge of the frontendmentor site that I do, I hope that I
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution in Front End Mentor Site:](https://www.frontendmentor.io/solutions/qr-code-component-5neH5vp_Ms)
+- [Live Site](https://vitormagnago.github.io/qr-code-component-main/)
 
 ## My process
 
